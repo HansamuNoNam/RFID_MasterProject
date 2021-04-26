@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/Rec">
+        <file>images/application-exit.png</file>
+        <file>images/connect.png</file>
+        <file>images/disconnect.png</file>
+        <file>images/iconfinder_Symbol-Refresh_49265.png</file>
+        <file>images/iconfinder_refresh_48523.png</file>
+        <file>images/iconfinder_shield-warning_299112.png</file>
+        <file>images/settings.png</file>
+        <file>images/RFID-horizontal-512.png</file>
+    </qresource>
+</RCC>
